@@ -6,8 +6,3 @@ docs:
   - title: Courses
     url: /
   - title: Projects
-    children:
-      - title: "a"
-        url: /
-      - title: "b"
-        url: /
