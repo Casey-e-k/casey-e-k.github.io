@@ -2,7 +2,10 @@ docs:
   - title: "About Me"
     url: /
   - title: My CV
-    url: /
+    url: /docs/cv/
   - title: Courses
-    url: /
-  - title: Projects
+    url: /docs/courses/
+  - title: projects
+    children:
+      - title: "Robot"
+        url: /docs/projects/Robot/
