@@ -1,0 +1,11 @@
+docs:
+  - title: "About Me"
+    url: /
+  - title: My CV
+    url: /docs/cv/
+  - title: Courses
+    url: /docs/courses/
+  - title: projects
+    children:
+      - title: "Robot"
+        url: /docs/projects/Robot/
