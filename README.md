@@ -1,2 +1,2 @@
 # Casey-Krombein.github.io
-My portfolio/site
+My portfolio
