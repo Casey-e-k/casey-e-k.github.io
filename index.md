@@ -21,3 +21,4 @@ author_profile: true
 # About Me
 
 Hi!
+{% include gallery %}
