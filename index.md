@@ -8,11 +8,6 @@ sidebar:
 title: About Me
 classes: wide
 
-gallery:
-
-
-header:
-
 author_profile: true
 ---
 
