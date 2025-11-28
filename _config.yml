@@ -24,7 +24,7 @@ email: caseyk@shaw.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://Casey-Krombein.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://casey-e-k.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
