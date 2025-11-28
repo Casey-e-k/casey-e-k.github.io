@@ -9,11 +9,11 @@ title: About Me
 classes: wide
 
 gallery:
-    - url: /images/headers/FullMoon2010.jpg
-      image_path: /images/headers/FullMoon2010.jpg
+    - url: /images/about_images/FullMoon2010.jpg
+      image_path: /images/about_images/FullMoon2010.jpg
 
 header:
-  overlay_image: /images/headers/FullMoon2010.jpg
+  overlay_image: /images/headers/moon.jpg
 
 author_profile: true
 ---
