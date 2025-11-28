@@ -8,6 +8,8 @@ sidebar:
 title: About Me
 classes: wide
 
+gallery: []
+
 header:
   overlay_image: /images/headers/FullMoon2010.jpg
 
