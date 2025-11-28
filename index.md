@@ -9,7 +9,7 @@ title: About Me
 classes: wide
 
 header:
-  overlay_image: /images/headers/test.jpg
+  overlay_image: /images/headers/FullMoon2010.jpg
 
 author_profile: true
 ---
