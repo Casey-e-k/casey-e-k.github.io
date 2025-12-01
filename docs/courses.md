@@ -75,6 +75,7 @@ _Courses currently enrolled in for the 2025-2026 academic year indicated by \*_
 | MECH 360    | Mechanics of Materials                            |
 | MECH 466    | Automatic Control                                 |
 | ELEC 302*   | Electronic Circuits                               |
+
 ## Project Courses
 
 | Course Code | Course Name                                       |
