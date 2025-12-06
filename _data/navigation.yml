@@ -7,7 +7,13 @@ docs:
     url: /docs/courses/
   - title: projects
     children:
+      - title: "Ultrasonic Levitation Capstone"
+        url: /docs/projects/capstone/
       - title: "Autonomous Mario Kart Robot"
-        url: /docs/projects/Robot.md
+        url: /docs/projects/robot/
       - title: "Autonomous Machine Learning Detective"
-        url: /docs/projects/auton-ml-det.md
+        url: /docs/projects/auton-ml-det/
+      - title: "RPM Motor Control Circuit"
+        url: /docs/projects/rpm-circ/
+      - title: "Small Projects"
+        url: /docs/projects/small-projects/
