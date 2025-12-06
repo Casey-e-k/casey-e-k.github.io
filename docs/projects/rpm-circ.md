@@ -1,7 +1,7 @@
 ---
 layout: single
 title: RPM Motor Control Circuit
-permalink: /docs/projects/RPM-Motor-Control-Circuit.md
+permalink: /docs/projects/rpm-circ.md
 sidebar:
   nav: "docs"
 classes: wide
