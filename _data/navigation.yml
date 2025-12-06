@@ -7,5 +7,7 @@ docs:
     url: /docs/courses/
   - title: projects
     children:
-      - title: "Robot"
-        url: /docs/projects/Robot/
+      - title: "Autonomous Mario Kart Robot"
+        url: /docs/projects/Robot.md
+      - title: "Autonomous Machine Learning Detective"
+        url: /docs/projects/auton-ml-det.md
