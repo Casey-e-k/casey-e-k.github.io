@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Autonomous Machine Learning Detective
-permalink: /docs/projects/Autonomous-ML-Detective.md
+permalink: /docs/projects/auton-ml-det.md
 sidebar:
   nav: "docs"
 classes: wide
