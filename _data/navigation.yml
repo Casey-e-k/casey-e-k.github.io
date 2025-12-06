@@ -1,11 +1,11 @@
 docs:
   - title: "About Me"
     url: /
-  - title: My CV
+  - title: "My CV"
     url: /docs/cv/
-  - title: Courses
+  - title: "Courses"
     url: /docs/courses/
-  - title: Projects
+  - title: "Projects"
     children:
       - title: "Ultrasonic Levitation Capstone"
         url: /docs/projects/capstone/
@@ -17,9 +17,9 @@ docs:
         url: /docs/projects/rpm-circ/
       - title: "Small Projects"
         url: /docs/projects/small-projects/
- - title: Work Experience
-   children:
+  - title: "Work Experience"
+    children:
       - title: "CSMC/Concordia University"
         url: /docs/work-experience/csmc/
-      - title: "Keirton"
+      - title: "Keirton Inc"
         url: /docs/work-experience/keirton/
