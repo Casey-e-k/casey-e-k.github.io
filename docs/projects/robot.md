@@ -33,5 +33,5 @@ competition surface: \
 
 
 
-include some more stuff from here:
+include some more stuff from here (and onshape, and (arm) code?):
 [proposal](https://docs.google.com/presentation/d/1EUVh4zl_FerdSUyQoc1oGfNbr4WYaPJDX-JoqiSvjzg/edit?slide=id.g2527bb043ef_1_4#slide=id.g2527bb043ef_1_4)
