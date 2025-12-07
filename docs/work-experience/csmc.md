@@ -7,6 +7,9 @@ sidebar:
 classes: wide
 author_profile: true
 ---
-# csmc
+# CSMC
+## Lunapure
+
+[Aqualunar Challenge Finalists](https://impact.canada.ca/en/challenges/aqualunarchallenge#ps4)
 
 # Visiting Research Intern at Concordia Univeristy
