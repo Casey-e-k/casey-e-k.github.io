@@ -53,7 +53,7 @@ Lab equipment and procedures I gained experience with:
 * gas chromatography
 * fume hoods
 * an FTIR (minimally)
-* furnaces heated to over $1000^\circ C$
+* furnaces heated to over $$1000^\circ C$$
 * heating tape and fiberglass high temperature insulation tape
 * leak testing
 * swaging ferrules onto tubing
@@ -112,7 +112,7 @@ Lab equipment and procedures I gained experience with:
 
 [Aqualunar Challenge Finalists](https://impact.canada.ca/en/challenges/aqualunarchallenge#ps4)
 
-* ## Sustainable Copper Oxide for Lunar Applications
+## Sustainable Copper Oxide for Lunar Applications
 
 CSMC also partnered with Destiny Copper as part of NGen Canada's Moonshot for Mining Minerals and Manufacturing program on this project. The project is focused on sustainably producing high purity copper and copper powder from mine tailings. My work involved experimenting with the produced copper.
 
