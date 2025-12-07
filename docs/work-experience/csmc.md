@@ -11,7 +11,7 @@ author_profile: true
 
 As CSMC's Engineering Intern, I had the opportunity to work on 4 different projects. One of these projects even enabled me to take on the role of a **visiting research intern at Concordia University's Gina Cody School of Engineering and Computer Science under Dr. Melanie Hazlett**, Associate Professor and Undergraduate Program Director for Chemical and Materials Engineering. My work on these will be outlined below:
 
-## Hydro+ as Dr. Melanie Hazlett's Visiting Research Intern
+## CSMC's Hydro+ Project as Dr. Melanie Hazlett's Visiting Research Intern
 HYDRO+ is an In Situ Resource Utilization (ISRU) technology aimed at producing water from lunar regolith on the moon. This project was funded by the Canadian Space Agency as part of their Lunar Surface Exploration Initiative. 
 
 I spent 8 months working in Dr. Melanie Hazlett's lab at Concordia Univeristy as a representative from CSMC. I spent the first several months learning as much as I could from her PhD student Azam Movasati about lab safety and proper etiquette, how to operate lab equipment and construct reactor systems, and how to run experiments in a chemical engineering lab. During this time I performed experiments in a small scale packed bed reactor under her supervision. Eventually I took over running the Hydro+ experiments and was responsible for preparing samples, running experiments, collecting data (including performing Gas Chromatography), documentation, sample collection, and cleanup.
@@ -79,7 +79,7 @@ Training courses I completed:
 
 ## Swarm Construction
 
-I lead CSMC and Mission Control's partnered swarm construction project which was funded through NGen Canada's Moonshot for Mining Minerals and Manufacturing program. As part of leading this project, I was responsible for:
+I led CSMC and Mission Control's partnered swarm construction project which was funded through NGen Canada's Moonshot for Mining Minerals and Manufacturing program. As part of leading this project, I was responsible for:
 
 * conducting a broad scope, in depth literature review on construction methods. This review, including proposals, was ~80 pages (special thanks to one of my coworkers for assisting me).
 * leading a team to:
