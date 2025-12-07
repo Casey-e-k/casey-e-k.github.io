@@ -1,7 +1,7 @@
 ---
 layout: single
-title: My CV
-permalink: /docs/cv/
+title: My Resume
+permalink: /docs/resume/
 sidebar:
   nav: "docs"
 classes: wide
