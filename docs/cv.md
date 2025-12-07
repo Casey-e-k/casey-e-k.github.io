@@ -7,6 +7,6 @@ sidebar:
 classes: wide
 author_profile: true
 ---
-[Download my CV (PDF)](/files/Casey_Krombein_CV.pdf)
+[Download my Resume (PDF)](/files/Casey_Krombein_Resume.pdf)
 
-<embed src="/files/Casey_Krombein_CV.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/files/Casey_Krombein_Resume.pdf" type="application/pdf" width="100%" height="800px" />
