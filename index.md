@@ -17,7 +17,7 @@ header:
 
 author_profile: true
 ---
-
+# Disclaimer: Portfolio is a WIP
 # About Me
 
 Hi! My name is Casey and I am currently pursuing a Bachelors degree in Engineering Physics with a minor in Astronomy from the University of British Columbia. I have been fascinated with space since I was a child and my dream is to one day go to space. I was a Zenith Fellow Intern in the class of 2024 of the Zenith Canada Pathways Foundation's Zenith Fellowship:
