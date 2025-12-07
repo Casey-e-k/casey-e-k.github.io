@@ -33,5 +33,5 @@ competition surface: \
 
 
 
-include some more stuff from here (and onshape, and (arm) code?):
+include some more stuff from here (and onshape, and (arm) code? and banana drop mechanism):
 [proposal](https://docs.google.com/presentation/d/1EUVh4zl_FerdSUyQoc1oGfNbr4WYaPJDX-JoqiSvjzg/edit?slide=id.g2527bb043ef_1_4#slide=id.g2527bb043ef_1_4)
