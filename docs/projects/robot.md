@@ -7,9 +7,9 @@ sidebar:
 classes: wide
 author_profile: true
 ---
-* Designed and built an autonomous robot capable of racing a real-life Mario Kart course with mystery blocks to collect, bombs to avoid, bananas to drop, and several shortcuts and obstacles. \
-* The robot was optimized to drive fast and execute all functions without reducing speed. \
-* Features: robot arms for block pickup, printer-style banana release mechanism, front wedge to constrain blocks and bombs, tape following capabilities, hall-effect sensor bomb detection, home-made pendulum ramp detection. \
+* Designed and built an autonomous robot capable of racing a real-life Mario Kart course with mystery blocks to collect, bombs to avoid, bananas to drop, and several shortcuts and obstacles. 
+* The robot was optimized to drive fast and execute all functions without reducing speed. 
+* Features: robot arms for block pickup, printer-style banana release mechanism, front wedge to constrain blocks and bombs, tape following capabilities, hall-effect sensor bomb detection, home-made pendulum ramp detection. 
 * Skills developed: circuit design, mechanical design, soldering, prototyping, debugging code, troubleshooting electrical issues, optimizing designs, integrating electromechanical systems.
 
 [News Coverage](https://www.ctvnews.ca/vancouver/article/ubc-students-bring-mario-kart-to-life-with-robotics-competition/)
