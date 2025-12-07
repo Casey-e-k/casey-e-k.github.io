@@ -1,8 +1,8 @@
 docs:
   - title: "About Me"
     url: /
-  - title: "My CV"
-    url: /docs/cv/
+  - title: "My Resume"
+    url: /docs/resume/
   - title: "Courses"
     url: /docs/courses/
   - title: "Projects"
