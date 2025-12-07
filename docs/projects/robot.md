@@ -14,7 +14,7 @@ author_profile: true
 
 [News Coverage](https://www.ctvnews.ca/vancouver/article/ubc-students-bring-mario-kart-to-life-with-robotics-competition/)
 
-My team made it to the quartere finals.
+My team made it to the quarter finals.
 
 Repairing the Robot Mid-Competition: \
 <img width="481" height="478" alt="image" src="https://github.com/user-attachments/assets/d432042f-dcd0-4c03-ae84-aca1eedfe6d5" />
