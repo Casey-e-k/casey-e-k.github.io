@@ -31,6 +31,10 @@ About 4 months in, Azam and I worked together to build a new, scaled up reactor 
 * Writing a user guide for the system
 * Creating training materials including a knowledge transfer document and instructional videos
 
+Me and Azam holding the scaled up reactor tube: \
+![20241118_150345](https://github.com/user-attachments/assets/01bb636a-7484-4820-8f73-c94371a4a63b)
+
+
 Near the end of my internship I also had the **opportunity to train** a coworker and new PhD student to take over from me. This included passing on the knowledge I learned from Azam and teaching them about:
 * lab safety and procedures
 * how to run the Hydro+ experiemnts
@@ -61,6 +65,12 @@ Lab equipment and procedures I gained experience with:
 * handling hazardous samples and materials
 * ph strips
 * electrolysis cell
+
+Me in front of the condensor system I designed and built: \
+![20241204_125957](https://github.com/user-attachments/assets/e76b3f17-6873-400d-8b15-69a31872a9f4)
+
+Me holding the samples of my last experiment (a success!!!): \
+![IMG_20241220_133859_289](https://github.com/user-attachments/assets/f5bf5e38-5c6a-4792-8a6c-b6317cf07b3a)
 
 As part of my work, I also had the opportunity to demonstrate this technology to representatives from the Canadian Space Agency as well as take part in a video demonstration which was sent to Gerald B. Sanders, Lead of ISRU at NASA.
 
