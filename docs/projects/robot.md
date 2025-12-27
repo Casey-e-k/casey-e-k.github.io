@@ -7,7 +7,9 @@ sidebar:
 classes: wide
 author_profile: true
 ---
-Along with 3 other students, I designed and built an autonomous robot capable of racing a real-life Mario Kart course with mystery blocks to collect, bombs to avoid, bananas to drop, and several shortcuts and obstacles.
+Along with 3 other students, I designed and built an autonomous robot capable of racing a real-life Mario Kart course with mystery blocks to collect, bombs to avoid, bananas to drop, and several shortcuts and obstacles. My team made it to quarter finals of the competition and were interviewed by the news in the following clip:
+
+[News Coverage](https://www.ctvnews.ca/vancouver/article/ubc-students-bring-mario-kart-to-life-with-robotics-competition/)
 
 The competition involved multiple rounds where two robots would race each other on the same track, pictured below.
 
@@ -18,6 +20,9 @@ Each mystery block collected awarded 1 point. Each consecutive lap completed awa
 Our robot design was optimized to drive fast and execute all functions (mystery block collection, bomb avoidance, etc) without reducing speed. It featured robot arms for block pickup, a printer-style banana release mechanism, a front wedge to constrain blocks and bombs, tape following capabilities, hall-effect sensor bomb detection, and home-made pendulum ramp detection.
 
 ### Block Collection System
+
+I want to highlight the part of the robot I solely designed and manufactured: the robot arms.
+
 The front of the robot was fitted with a wedge to funnel blocks towards the robot arms while preventing the blocks from tipping over. This allowed us to prevent bombs from detonating. We placed hall effect sensors within the wedge to detect if the block was a bomb. If it was a bomb, the robot arms would lift and allow the bomb to safely be swept to the side of the robot, undetonated. If it was not a bomb, the block would be caught by the robot arms.
 
 <img width="578" height="448" alt="image" src="https://github.com/user-attachments/assets/fadc86ec-683c-4a49-917e-ed91314c3aed" />
@@ -37,10 +42,6 @@ The claw in early testing:
 
 ### Skills developed:
 circuit design, mechanical design, soldering, prototyping, debugging code, troubleshooting electrical issues, optimizing designs, integrating electromechanical systems.
-
-[News Coverage](https://www.ctvnews.ca/vancouver/article/ubc-students-bring-mario-kart-to-life-with-robotics-competition/)
-
-My team made it to the quarter finals.
 
 Repairing the Robot Mid-Competition: \
 <img width="481" height="478" alt="image" src="https://github.com/user-attachments/assets/d432042f-dcd0-4c03-ae84-aca1eedfe6d5" />
