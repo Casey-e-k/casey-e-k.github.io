@@ -27,16 +27,15 @@ For our purposes, a transducer is a small speaker that can emit an ultrasonic pr
 
 <img width="886" height="476" alt="image" src="https://github.com/user-attachments/assets/d692579e-de3a-4624-8e63-32bbb4ae0242" />
 
-visual demonstration of the wave interference concept:
+visual demonstration of the wave interference concept I made using the manim animation library developed by Grant Sanderson for the 3Blue1Brown youtube channel:
 
-<img src="/files/TransducerArrayScene@2025-03-25@06-05-42_(1).gif" width="600">
+<img src="/files/TransducerArrayScene@2025-03-25@06-05-42 (1).gif" width="600">
 
-[explain system high level]
+the traps occur at the vertical interfaces between yellow and blue regions in the heat map at the end of the video.
 
-[need a diagram]
+A real heat map for our system (created by a teammate):
 
-[show manim video I made??]
-
+<img width="753" height="594" alt="image" src="https://github.com/user-attachments/assets/b71614d5-f34b-492a-9c97-ca3822e9a81b" />
 
 
 
