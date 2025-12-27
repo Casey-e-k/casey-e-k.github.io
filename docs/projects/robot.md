@@ -21,7 +21,7 @@ Our robot design was optimized to drive fast and execute all functions (mystery 
 
 ### Block Collection System
 
-I want to highlight the part of the robot I solely designed and manufactured: the robot arms.
+I want to highlight the part of the robot I solely designed and manufactured: the robot arms. Our robot was one of the top block collectors and our block collection system worked consistently well.
 
 The front of the robot was fitted with a wedge to funnel blocks towards the robot arms while preventing the blocks from tipping over. This allowed us to prevent bombs from detonating. We placed hall effect sensors within the wedge to detect if the block was a bomb. If it was a bomb, the robot arms would lift and allow the bomb to safely be swept to the side of the robot, undetonated. If it was not a bomb, the block would be caught by the robot arms.
 
