@@ -33,6 +33,8 @@ visual demonstration of the wave interference concept I made using the manim ani
 
 the traps occur at the vertical interfaces between yellow and blue regions in the heat map at the end of the video.
 
+**disclaimer: the video above is NOT physically accurate, it is merely a qualitative visual to convey the general concept**
+
 A real heat map for our system (created by a teammate):
 
 <img width="753" height="594" alt="image" src="https://github.com/user-attachments/assets/b71614d5-f34b-492a-9c97-ca3822e9a81b" />
