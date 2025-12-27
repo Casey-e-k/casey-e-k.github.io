@@ -24,7 +24,7 @@ The above photo shows a CAD model of my robot arm design with a mystery block in
 This arm would be mounted onto the flat outcropping behind each front wheel in such a way as to allow the front wedge to funnel all blocks into the waiting claws. The blocks would then trigger a switch in the palm of the claw and the arm would grab the block, lift it up, and drop it into the collection area.
 
 Video of claw in early testing:
-<embed src="/files/20230727_134713.mp4" type="video/mp4">
+<img src="/files/clawtest.gif" width="600" alt="Claw early testing">
 
 ### Skills developed:
 circuit design, mechanical design, soldering, prototyping, debugging code, troubleshooting electrical issues, optimizing designs, integrating electromechanical systems.
