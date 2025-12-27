@@ -24,7 +24,7 @@ _Courses currently enrolled in for the 2025-2026 academic year indicated by \*_
 | MATH 307    | Applied Linear Algebra                            |
 | MATH 302    | Introduction to Probability                       |
 | MATH 400    | Applied Partial Differential Equations            |
-| MATH 405*   | Numerical Methods for Differential Equations      |
+| MATH 405    | Numerical Methods for Differential Equations      |
 
 ## Physics/Applied Physics
 
@@ -43,9 +43,9 @@ _Courses currently enrolled in for the 2025-2026 academic year indicated by \*_
 | PHYS 304    | Introduction to Quantum Mechanics                 |
 | PHYS 350    | Applications of Classical Mechanics               |
 | PHYS 401    | Electromagnetic Theory                            |
-| ENPH 352*   | Laboratory Techniques in Physics                  |
+| ENPH 352    | Laboratory Techniques in Physics                  |
 | PHYS 403*   | Statistical Mechanics                             |
-| PHYS 407*   | Introduction to General Relativity                |
+| PHYS 407    | Introduction to General Relativity                |
 | PHYS 408*   | Optics                                            |
 
 
@@ -55,7 +55,7 @@ _Courses currently enrolled in for the 2025-2026 academic year indicated by \*_
 |-------------|---------------------------------------------------|
 | ASTR 200    | Frontiers of Astrophysics                         |
 | ASTR 333    | Exoplanets and Astrobiology                       |
-| ASTR 300*   | Galaxies                                          |
+| ASTR 300    | Galaxies                                          |
 | ASTR 407*   | Planetary Science                                 |
 
 ## Engineering Theory and Application
@@ -92,5 +92,5 @@ _Courses currently enrolled in for the 2025-2026 academic year indicated by \*_
 | WRDS 150B   | Writing and Research in the Disciplines           |
 | LING 101    | Languages of the World                            |
 | IGEN 201    | Integrated Technical Communication                |
-| PHIL 462A*  | Space and Time                                    |
+| PHIL 462A   | Space and Time                                    |
 
