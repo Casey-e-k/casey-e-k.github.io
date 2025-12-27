@@ -18,6 +18,10 @@ Each mystery block collected awarded 1 point. Each consecutive lap completed awa
 Our robot design was optimized to drive fast and execute all functions (mystery block collection, bomb avoidance, etc) without reducing speed. It featured robot arms for block pickup, a printer-style banana release mechanism, a front wedge to constrain blocks and bombs, tape following capabilities, hall-effect sensor bomb detection, and home-made pendulum ramp detection.
 
 ### Block Collection System
+The front of the robot was fitted with a wedge to funnel blocks towards the robot arms while preventing the blocks from tipping over. This allowed us to prevent bombs from detonating. We placed hall effect sensors within the wedge to detect if the block was a bomb. If it was a bomb, the robot arms would lift and allow the bomb to safely be swept to the side of the robot, undetonated. If it was not a bomb, the block would be caught by the robot arms.
+
+<img width="578" height="448" alt="image" src="https://github.com/user-attachments/assets/fadc86ec-683c-4a49-917e-ed91314c3aed" />
+
 <img width="976" height="549" alt="image" src="https://github.com/user-attachments/assets/83161702-d8e7-46ee-8ff6-8f1b8f988501" />
 
 The above photo shows a CAD model of my robot arm design with a mystery block in the 'robot claw'.
