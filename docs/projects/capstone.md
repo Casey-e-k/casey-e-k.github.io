@@ -27,7 +27,7 @@ For our purposes, a transducer is a small speaker that can emit an ultrasonic pr
 
 <img width="886" height="476" alt="image" src="https://github.com/user-attachments/assets/d692579e-de3a-4624-8e63-32bbb4ae0242" />
 
-visual demonstration of the wave interference concept I made using the manim animation library developed by Grant Sanderson for the 3Blue1Brown youtube channel:
+Below is a visual demonstration of the wave interference concept I made using the manim animation library developed by Grant Sanderson for the 3Blue1Brown youtube channel. This visual displays a side view of the system so 16 transducers can be seen. In reality, there are 16 rows of this visual and the interference pattern is 3D and more complex.
 
 <img src="/files/TransducerArrayScene@2025-03-25@06-05-42 (1).gif" width="600">
 
