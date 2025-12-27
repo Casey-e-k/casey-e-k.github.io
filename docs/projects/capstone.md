@@ -27,6 +27,9 @@ For our purposes, a transducer is a small speaker that can emit an ultrasonic pr
 
 <img width="886" height="476" alt="image" src="https://github.com/user-attachments/assets/d692579e-de3a-4624-8e63-32bbb4ae0242" />
 
+visual demonstration of the wave interference concept:
+
+<img src="/files/TransducerArrayScene@2025-03-25@06-05-42_(1).gif" width="600">
 
 [explain system high level]
 
