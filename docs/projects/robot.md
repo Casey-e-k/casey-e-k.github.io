@@ -30,7 +30,7 @@ This arm would be mounted onto the flat outcropping behind each front wheel in s
 
 The claw in early testing:
 
-<video controls muted playsinline width="600">
+<video controls width="600">
   <source src="/files/20230727_134713.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
