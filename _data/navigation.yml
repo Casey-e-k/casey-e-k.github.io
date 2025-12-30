@@ -11,10 +11,10 @@ docs:
         url: /docs/projects/capstone/
       - title: "Helmholtz Cage"
         url: /docs/projects/helmholtzcage/
-      - title: "Autonomous Machine Learning Detective"
-        url: /docs/projects/auton-ml-det/
       - title: "Autonomous Mario Kart Robot"
         url: /docs/projects/robot/
+      - title: "Autonomous Machine Learning Detective"
+        url: /docs/projects/auton-ml-det/
       - title: "RPM Motor Control Circuit"
         url: /docs/projects/rpm-circ/
       - title: "Small Projects"
