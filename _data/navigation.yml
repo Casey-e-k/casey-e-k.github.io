@@ -9,16 +9,16 @@ docs:
     children:
       - title: "Ultrasonic Levitation Capstone"
         url: /docs/projects/capstone/
-      - title: "Autonomous Mario Kart Robot"
-        url: /docs/projects/robot/
+      - title: "Helmholtz Cage"
+        url: /docs/projects/helmholtzcage/
       - title: "Autonomous Machine Learning Detective"
         url: /docs/projects/auton-ml-det/
+      - title: "Autonomous Mario Kart Robot"
+        url: /docs/projects/robot/
       - title: "RPM Motor Control Circuit"
         url: /docs/projects/rpm-circ/
       - title: "Small Projects"
         url: /docs/projects/small-projects/
-      - title: "Helmholtz Cage"
-        url: /docs/projects/helmholtzcage/
   - title: "Work Experience"
     children:
       - title: "CSMC/Concordia University"
