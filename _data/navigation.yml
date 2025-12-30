@@ -17,6 +17,8 @@ docs:
         url: /docs/projects/rpm-circ/
       - title: "Small Projects"
         url: /docs/projects/small-projects/
+      - title: "Helmholtz Cage"
+        url: /docs/projects/helmholtzcage/
   - title: "Work Experience"
     children:
       - title: "CSMC/Concordia University"
