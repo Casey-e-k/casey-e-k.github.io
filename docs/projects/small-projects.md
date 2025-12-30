@@ -69,15 +69,8 @@ Collaborated with a partner to research, design, and construct a bridge made of 
 supported sixteen times its own weight, winning first place in competition.
 
 ## Machined Cell Phone Holder
+Machined an adjustable cell phone stand through the UBC PHAS Machine Shop training course. Machines used: waterjet cutter, mill, lathe, bandsaw, drill press, taps and dies, deburring tools. I also learned how to grind my own lathe tool bits.
 
 ## Adaptive Device - APSC 100 Project
 Used Solidworks to individually design a model of an adaptive device intended to help quadriplegic patients
 independently open screw-cap bottles.
-
-## Music Projects
-Used Logic Pro X and Audacity to record, edit, and produce several audio pieces
-including original songs, a YouTube video intro jingle, and an electric guitar cover of the Schindler’s List
-theme.
-
-## Film Projects
-
