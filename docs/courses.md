@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 author_profile: true
 ---
-_Courses currently enrolled in for the 2025-2026 academic year indicated by \*_
+_Courses currently in progress for the 2025-2026 academic year indicated by \*_
 
 ## Math/Applied Math
 
