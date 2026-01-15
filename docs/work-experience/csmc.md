@@ -7,7 +7,8 @@ sidebar:
 classes: wide
 author_profile: true
 ---
-[CSMC's Website](https://csmc-scms.ca/)
+**_note: since working for CSMC, they have rebranded as the Canadian Strategic Missions Corporation_**
+[CSMC's Website]([https://csmc-scms.ca/](https://strategicmissions.ca/)
 
 As CSMC's Engineering Intern, I had the opportunity to work on 4 different projects. One of these projects even enabled me to take on the role of a **visiting research intern at Concordia University's Gina Cody School of Engineering and Computer Science under Dr. Melanie Hazlett**, Associate Professor and Undergraduate Program Director for Chemical and Materials Engineering. My work on these will be outlined below:
 
