@@ -10,7 +10,7 @@ author_profile: true
 
 I am leading a team of 5 BASc and BSC students to design and construct a 3 axis Helmholtz cage in order to cancel ambient magnetic fields and simulate dynamic in-orbit magnetic field conditions. This will enable UBC Orbit to perform magnetic testing of our cubesat ALEASAT and ensure that ALEASAT's dipole moment, as well as any magnetic field dependent and magnetic field generating components are performing within design and launch specifications.
 
-**I, along with some members of my team, will be presenting our work on this project this year at the 13th annual Canadian Conference for Undergraduate Women & Gender Minorities in Physics (CCUW*iP). We will be delivering an oral presentation, as well as presenting a poster.**
+**I, along with some members of my team, will be presenting our work on this project this year at the 13th annual Canadian Conference for Undergraduate Women & Gender Minorities in Physics (CCUW*iP). We will be delivering an oral presentation, as well as presenting a poster. Our abstract will be published in the Canadian Journal for Undergraduate Research.**
 
 As part of our design work, I used this [paper](https://www.sciencedirect.com/science/article/pii/S0307904X16303389) to develop a single axis (2 coils) static magnetic field simulation. The code for this simulation can be found [here](https://github.com/Casey-e-k/Helmholtz-Cage-Simulation/blob/main/Jupyter%20Notebook%20Helmholtz%20sim.ipynb). This simulation is being used by my team to test different system configurations and inform design decisions.
 
