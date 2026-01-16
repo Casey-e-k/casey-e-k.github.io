@@ -26,4 +26,4 @@ I was a Zenith Fellow Intern in the class of 2024 of the Zenith Canada Pathways 
 [My Zenith Bio](https://www.zenithpathways.ca/casey-krombein) \
 [UBC Engineering Physics Announcement](https://www.engphys.ubc.ca/2024/04/12/casey-krombein-selected-for-fellow-internship-with-the-zenith-canada-pathways-foundation/)
 
-My driving forces are curiosity, passion, and determination, and I enjoy hands-on work and collaborative work. I am a keen learner and a creative problem solver, and I am eager to expand my network and spread my wings in the space industry.
+My driving forces are curiosity, passion, and determination, and I enjoy hands-on work and collaborative work. I am a keen learner and a creative problem solver, and I am eager to expand my network and spread my wings in the space industry and beyond.
