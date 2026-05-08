@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 author_profile: true
 ---
-_Courses currently in progress for the 2025-2026 academic year indicated by \*_
+_Courses currently in progress for the Summer 2026 academic session indicated by \*_
 
 ## Math/Applied Math
 
@@ -44,9 +44,9 @@ _Courses currently in progress for the 2025-2026 academic year indicated by \*_
 | PHYS 350    | Applications of Classical Mechanics               |
 | PHYS 401    | Electromagnetic Theory                            |
 | ENPH 352    | Laboratory Techniques in Physics                  |
-| PHYS 403*   | Statistical Mechanics                             |
+| PHYS 403    | Statistical Mechanics                             |
 | PHYS 407    | Introduction to General Relativity                |
-| PHYS 408*   | Optics                                            |
+| PHYS 408    | Optics                                            |
 
 
 ## Astronomy/Astrophysics
@@ -56,7 +56,7 @@ _Courses currently in progress for the 2025-2026 academic year indicated by \*_
 | ASTR 200    | Frontiers of Astrophysics                         |
 | ASTR 333    | Exoplanets and Astrobiology                       |
 | ASTR 300    | Galaxies                                          |
-| ASTR 407*   | Planetary Science                                 |
+| ASTR 407    | Planetary Science                                 |
 
 ## Engineering Theory and Application
 
@@ -74,7 +74,8 @@ _Courses currently in progress for the 2025-2026 academic year indicated by \*_
 | ELEC 221    | Signals and Systems                               |
 | MECH 360    | Mechanics of Materials                            |
 | MECH 466    | Automatic Control                                 |
-| ELEC 302*   | Electronic Circuits                               |
+| ELEC 302    | Electronic Circuits                               |
+| CIVL 250*   | Engineering and Sustainable Development           |
 
 ## Project Courses
 
@@ -83,7 +84,7 @@ _Courses currently in progress for the 2025-2026 academic year indicated by \*_
 | ENPH 253    | Introduction to Instrument Design                 |
 | ENPH 353    | Engineering Physics Project I                     |
 | ENPH 459    | Engineering Physics Project II                    |
-| ENPH 479*   | Engineering Physics Project III                   |
+| ENPH 479    | Engineering Physics Project III                   |
 
 ## Communication, Critical Thinking, and Humanities
 
